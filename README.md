@@ -1,5 +1,5 @@
 # **Lista 04** <br />
-## Lógica de Programação - Professor: Igor Mascarenhas <br />
+## Lógica de Programação - ADA Tech - B3 -Professor: Igor Mascarenhas <br />
 ### Conteúdos: Array, ArrayList, Map. <br />
 <br />
 1. Dado duas arrays A e B, escreva uma função que faça a
